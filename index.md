@@ -1,8 +1,8 @@
 ## The Ever Curious Blog
 
-Things i want to remember not to forget. Or at least link back to... 
+Things i want to remember not to forget. Or at least link back to.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever I commit to this page, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in these Markdown files.
 
 ### Markdown
 
