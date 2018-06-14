@@ -2,7 +2,7 @@
 
 Things i want to remember not to forget. Or at least link back to.
 
-Whenever I commit to this page, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in these Markdown files.
+Whenever I commit to these pages, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages and site as a whole, from the content in these Markdown files.
 
 ### Markdown
 
